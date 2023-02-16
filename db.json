@@ -1,9 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "Cpf": [
+    {"nome":"Emerson Amorim","situacao":"Regular", "date":"18-02-1981", "numero":"91245678918"}
+
+  ]
 }
